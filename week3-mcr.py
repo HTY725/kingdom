@@ -44,7 +44,7 @@ def main():
             game[i][j] = 'O'
         if is_win(game):
             print("Win!")
-            print("game over")
+            print("game over")  #THIS IS A NEW EDIT
             break  # Terminate the game
         if n == 8:  # All cells have been filled
             print("Tie!")
