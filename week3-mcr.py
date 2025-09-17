@@ -31,9 +31,9 @@ def main():
     for n in range(9):
         turn = not turn  # Switch turns
         if not turn:
-            print("Player 1: ", end="")
+            print("Player 1:  ", end="")
         else:
-            print("Player 2: ", end="")
+            print("Player 2:  ", end="")
         print("Which cell to mark? i:[1..3], j:[1..3]: ")
         i, j = map(int, input().split())
         i -= 1
