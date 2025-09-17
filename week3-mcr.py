@@ -3,7 +3,7 @@
 # Reviewer 2:Xuecheng Huang黄学诚(name), 72510406(ID), Mucheng66(GitHub name)
 # Reviewer 3:Jingwen Jia贾静文(name), 72512092(ID), Lixibeijjw(GitHub name)
 # Reviewer 4:Liang yue岳亮(name), 72512031(ID), HTY725(GitHub name)
-# Reviewer 5:Jiacheng Qian(name), 72510756(ID), qianjiachen(GitHub name)
+# Reviewer 5:Jiacheng Qian钱佳辰(name), 72510756(ID), qianjiachen(GitHub name)
 
 def is_win(game):
     win = False
