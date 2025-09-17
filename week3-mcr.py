@@ -1,6 +1,6 @@
 # Author:Junyu Li(name), 72510897(ID), CHD-LJY(GitHub name)
 # Reviewer 1:Xinyi Zhang张心怡(name), 72512043(ID), koko-evan(GitHub name)
-# Reviewer 2:Xuecheng Huang(name), 72510406(ID), Mucheng66(GitHub name)
+# Reviewer 2:Xuecheng Huang黄学诚(name), 72510406(ID), Mucheng66(GitHub name)
 # Reviewer 3:Jingwen Jia贾静文(name), 72512092(ID), Lixibeijjw(GitHub name)
 # Reviewer 4:Liang yue岳亮(name), 72512031(ID), HTY725(GitHub name)
 # Reviewer 5:Jiacheng Qian(name), 72510756(ID), qianjiachen(GitHub name)
